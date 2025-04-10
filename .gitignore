@@ -174,4 +174,4 @@ cython_debug/
 .pypirc
 
 # Contains my secret
-# .env
+.env
